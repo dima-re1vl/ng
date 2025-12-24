@@ -1,0 +1,21 @@
+.main {
+    text-align: center;
+}
+
+.q {
+    text-align: center;
+    background-color: #5dbaca;
+    margin: 20px auto;
+    padding: 20px 0;
+    margin-bottom: 50px;
+}
+
+.a {
+    width: 80%;
+    text-align: center;
+    margin: 20px auto;
+    background-color: rgb(215, 168, 79);
+    padding: 20px 10px;
+    border-radius: 20px;
+}
+

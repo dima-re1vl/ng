@@ -1,0 +1,36 @@
+.mainText {
+   text-align: center;
+}
+
+.description {
+    width: 90%;
+    margin: 0 auto;
+    background-color: #ccc;
+    border-radius: 25px;
+    padding: 10px 5px;
+    text-align: center;
+}
+
+.hint {
+    background-color: #c49e56;
+    padding: 5px 5px 5px 40px;
+    border-radius: 30px;
+    width: 80%;
+    margin: 20px auto;
+}
+
+.q {
+    text-align: center;
+    background-color: #4c9ef6;
+    padding: 20px 0;
+}
+
+.box {
+    display: flex;
+    justify-content: center;
+}
+
+.res {
+ text-align: center;
+ margin: 20px auto;
+}
